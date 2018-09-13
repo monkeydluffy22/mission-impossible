@@ -1,4 +1,4 @@
-[trial](#sjkjash)
+[trial](sjkjash)
 
 _machine learning repository_
 # mission-impossible
@@ -7,7 +7,7 @@ _machine learning repository_
 
 jsdha
 
-# sjkjash
+sjkjash
 
 asbcnsac
 
