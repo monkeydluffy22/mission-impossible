@@ -1,6 +1,6 @@
-_machine learning repository
+_machine learning repository_
 
-Link to get started:https://github.com/datasciencemasters/go_
+_Link to get started:https://github.com/datasciencemasters/go_
 
 # mission-impossible
 
